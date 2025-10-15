@@ -32,4 +32,10 @@ This project involves a comprehensive analysis of Uber booking data in New York 
 - **Data Processing:** SQL
 - **Dashboard Tools:** Tableau/Power BI
 
-## Project Structure
+## Copyright & Attribution
+
+- Primary Data Source: Kaggle dataset
+
+- Copyright Notice: © UBER Technologies, Inc. All rights reserved.
+
+- Disclaimer: This project is not affiliated with, endorsed, or sponsored by UBER.
